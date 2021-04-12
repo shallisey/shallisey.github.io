@@ -153,6 +153,6 @@ a:active {
 }
 
 .img-size {
-  width: 700px;
-  height: 300px;
+  width: 100%;
+  height:83%;
 }
